@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Campisi's Restaurants",
+        "subtitle": "1520 Elm St #111, Dallas",
+        "latitude": 32.7813,
+        "longitude": -96.7987
+    },
+    {
+        "title": "Dallas Fort Worth Airport",
+        "subtitle":"Dallas Fort Worth International Airport",
+        "latitude":32.897480,
+        "longitude":-97.040443
+    },
+    {
+        "title":"Woolworth Building",
+        "subtitle":"The Woolworth Building",
+        "latitude":32.7812,
+        "longitude":-96.7986
+    },
+    {
+        "title":"Americano",
+        "subtitle":"Americano Vibrant Italian Restaurant",
+        "latitude":32.7806,
+        "longitude":-96.7983
+    },
+    {
+        "title":"Gloria's Latin Cuisine",
+        "subtitle":"Gloria's Latin Cuisine Dallas",
+        "latitude":38.8071,
+        "longitude":-96.8001
+    },
+    {
+        "title":"Varsity Tavern",
+        "subtitle":"Varsity Tavern Fort Worth",
+        "latitude":32.7489,
+        "longitude":-97.3600
+    },
+    {
+        "title": "Pluckers",
+        "subtitle": "Pluckers Wing Bar Arlington",
+        "latitude": 32.6796,
+        "longitude":-97.1060
+    }
+]
